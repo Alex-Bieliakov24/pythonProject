@@ -2,6 +2,7 @@ from db import DatabaseManager
 from search import FilmSearcher
 from interface import ConsoleInterface
 
+
 #Main entry point of the application.
 if __name__ == "__main__":
     # Initialize the database manager for connecting and interacting with the database.
